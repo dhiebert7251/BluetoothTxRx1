@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothTxRx</string>
+    <string name="entryBoxText">Enter text to send</string>
+    <string name="submitButton">Submit</string>
+</resources>
